@@ -34,5 +34,5 @@ By grouping transactions by the hour of the day, we pinpointed exactly when cust
 
 ## 🛠️ Tech Stack & Tools Used
 - **Language:** Python
-- **Libraries:** Pandas (Data Manipulation), Matplotlib,Seaborn (Data Visualization)
+- **Libraries:** Pandas (Data Manipulation), Matplotlib (Data Visualization)
 - **Environment:** Jupyter Notebook
